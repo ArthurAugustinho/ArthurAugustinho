@@ -19,7 +19,6 @@
   <a href="https://github.com/ArthurAugustinho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurAugustinho&show_icons=true&theme=chartreuse-dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurAugustinho&layout=compact&theme=chartreuse-dark"/>
-  <img width=850  src=https://github.com/ArthurAugustinho/ArthurAugustinho/blob/output/github-contribution-grid-snake.svg/>
 </div>
 
 #
@@ -44,3 +43,5 @@
 
 #
     
+
+![snake gif](https://github.com/ArthurAugustinho/ArthurAugustinho/blob/output/github-contribution-grid-snake.svg)
