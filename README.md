@@ -45,3 +45,5 @@
     
 
 ![snake gif](https://github.com/ArthurAugustinho/ArthurAugustinho/blob/output/github-contribution-grid-snake.svg)
+    
+<!-- 2CCA-000451-5766EBC3 -->
