@@ -17,8 +17,11 @@
 
 <div>
   <a href="https://github.com/ArthurAugustinho">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurAugustinho&show_icons=true&theme=chartreuse-dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurAugustinho&layout=compact&theme=chartreuse-dark"/>
+  <img height="180vw" src="https://readme-stats.clckblog.space/api?username=ArthurAugustinho&hide=contribs,prs&show_icons=true&layout=compact&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="180vw" src="https://readme-stats.clckblog.space/api/top-langs/?username=ArthurAugustinho&layout=compact&langs_count=10&theme=chartreuse-dark&hide_border=true"/>
+  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurAugustinho&show_icons=true&theme=chartreuse-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurAugustinho&layout=compact&theme=chartreuse-dark"/>-->
+  <img width=850  src=https://github.com/ArthurAugustinho/ArthurAugustinho/blob/output/github-contribution-grid-snake.svg/>
 </div>
 
 #
@@ -42,13 +45,6 @@
 </div>
 
 #
-    
-<div align="center" >
-    <a href="https://github.com/ArthurAugustinho">
-    <img height="120vw" src="https://readme-stats.clckblog.space/api?username=ArthurAugustinho&hide=contribs,prs&show_icons=true&layout=compact&theme=monokai&hide_border=true&count_private=true&include_all_commits=true"/>
-    <img height="120vw" src="https://readme-stats.clckblog.space/api/top-langs/?username=ArthurAugustinho&layout=compact&langs_count=10&theme=monokai&hide_border=true"/>
-    <img width=850  src=https://github.com/ArthurAugustinho/ArthurAugustinho/blob/output/github-contribution-grid-snake.svg/>
-  </div>
     
 <!--[snake gif](https://github.com/ArthurAugustinho/ArthurAugustinho/blob/output/github-contribution-grid-snake.svg)
     
