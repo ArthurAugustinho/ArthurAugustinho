@@ -43,7 +43,13 @@
 
 #
     
-
-![snake gif](https://github.com/ArthurAugustinho/ArthurAugustinho/blob/output/github-contribution-grid-snake.svg)
+<div align="center" >
+    <a href="https://github.com/ArthurAugustinho">
+    <img height="120vw" src="https://readme-stats.clckblog.space/api?username=ArthurAugustinho&hide=contribs,prs&show_icons=true&layout=compact&theme=monokai&hide_border=true&count_private=true&include_all_commits=true"/>
+    <img height="120vw" src="https://readme-stats.clckblog.space/api/top-langs/?username=ArthurAugustinho&layout=compact&langs_count=10&theme=monokai&hide_border=true"/>
+    <img width=850  src=https://github.com/ArthurAugustinho/ArthurAugustinho/blob/output/github-contribution-grid-snake.svg/>
+  </div>
+    
+<!--[snake gif](https://github.com/ArthurAugustinho/ArthurAugustinho/blob/output/github-contribution-grid-snake.svg)
     
 <!-- 2CCA-000451-5766EBC3 -->
