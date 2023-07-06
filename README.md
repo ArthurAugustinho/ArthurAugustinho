@@ -47,20 +47,20 @@
 <!--[snake gif](https://github.com/ArthurAugustinho/ArthurAugustinho/blob/output/github-contribution-grid-snake.svg)
     
 <!-- 2CCA-000451-5766EBC3 -->
-<!-- O MVP (Minimum Viable Product) ou Produto Mínimo Viável é um conceito utilizado no desenvolvimento de produtos e serviços, especialmente no contexto das startups. Ele se refere à versão simplificada de um produto ou serviço que contém apenas as funcionalidades básicas necessárias para atender às necessidades dos primeiros usuários ou clientes. O objetivo principal de um MVP é validar rapidamente uma ideia de negócio, testar hipóteses e aprender com o feedback dos usuários, antes de investir recursos significativos no desenvolvimento completo do produto.
+<!-- Sistemas de arquivos são componentes essenciais dos sistemas operacionais, responsáveis pelo gerenciamento, organização e armazenamento de dados em dispositivos de armazenamento, como discos rígidos e SSDs. Eles fornecem uma estrutura e conjunto de regras para acessar, armazenar e recuperar arquivos de forma eficiente.
 
-Um plano de negócios, por sua vez, é um documento que descreve a visão, objetivos, estratégias, análise de mercado, modelo de negócios e outras informações relevantes sobre uma startup. Ele serve como um guia para orientar as ações e decisões da empresa, oferecendo uma visão geral do empreendimento e sua viabilidade.
+Existem diferentes tipos de sistemas de arquivos implementados nos sistemas operacionais. Alguns dos principais incluem:
 
-A relação entre plano de negócios e prototipação está diretamente ligada ao conceito de MVP. A prototipação é a criação de protótipos ou modelos iniciais do produto ou serviço, que podem ser utilizados para validar ideias, testar funcionalidades e coletar feedback dos usuários. Nesse contexto, a prototipação é uma etapa fundamental na construção do MVP, pois permite criar uma versão tangível do produto ou serviço de forma rápida e iterativa.
+1. FAT (File Allocation Table): O sistema de arquivos FAT foi inicialmente desenvolvido para o MS-DOS e é amplamente usado em dispositivos de armazenamento removíveis, como pen drives e cartões de memória. Ele usa uma tabela de alocação de arquivos para registrar a localização dos dados em um dispositivo.
 
-Ao combinar o plano de negócios com a prototipação, as startups podem obter os seguintes benefícios:
+2. NTFS (New Technology File System): O NTFS é o sistema de arquivos padrão para o Windows. Ele suporta recursos avançados, como controle de acesso, criptografia, compressão de arquivos e recuperação de dados em caso de falhas.
 
-1. Validação de ideias: Através da prototipação e do MVP, é possível validar se a ideia de negócio tem potencial no mercado e se atende às necessidades dos usuários. Isso ajuda a reduzir o risco de investir tempo e recursos em uma ideia que pode não ser viável.
+3. ext4 (Fourth Extended File System): O ext4 é uma versão avançada do sistema de arquivos ext3 e é amplamente usado em sistemas Linux. Ele oferece recursos como journaling (registro de transações), suporte a tamanhos de arquivos grandes e alta escalabilidade.
 
-2. Aprendizado rápido: O uso de protótipos e MVPs permite às startups aprenderem rapidamente com o feedback dos usuários. Isso possibilita ajustes e melhorias constantes no produto ou serviço, com base nas preferências e necessidades reais dos clientes.
+4. HFS+ (Hierarchical File System Plus): O HFS+ foi o sistema de arquivos padrão nos sistemas operacionais macOS antes do lançamento do APFS (Apple File System). Ele fornece suporte a metadados estendidos, criptografia e compressão de arquivos.
 
-3. Economia de recursos: Ao construir um MVP, as startups podem economizar recursos, evitando investimentos excessivos no desenvolvimento completo do produto antes de testar sua aceitação no mercado. A prototipação permite identificar e corrigir problemas com menor custo e rapidez.
+5. APFS (Apple File System): O APFS é o sistema de arquivos atualmente utilizado no macOS e iOS. Ele é projetado para melhorar o desempenho, eficiência e confiabilidade, além de oferecer recursos avançados, como snapshots (pontos de restauração instantâneos), clonagem de arquivos e criptografia nativa.
 
-4. Atração de investidores: Um MVP bem-sucedido, validado e comprovado por feedback positivo dos usuários, pode aumentar as chances de atrair investidores. Os investidores se sentem mais confiantes em apoiar startups que demonstram ter um produto viável e um modelo de negócios sólido.
+Esses são apenas alguns exemplos dos muitos sistemas de arquivos disponíveis. Cada um possui suas características específicas, otimizadas para atender a diferentes requisitos de desempenho, segurança e compatibilidade em sistemas operacionais distintos.
 
-Em resumo, a utilização das estratégias de plano de negócios e prototipação em conjunto favorece o desenvolvimento e o sucesso de startups, pois permite a validação rápida de ideias, a aprendizagem com feedback dos usuários, a economia de recursos e a atração de investidores. Essas práticas ajudam as startups a iterarem, ajustarem e evoluírem seus produtos ou serviços de forma ágil, com base em dados reais e nas necessidades do mercado. -->
+A migração de processos em sistemas distribuídos refere-se ao processo de transferir a execução de um processo de um nó ou servidor para outro dentro de um ambiente distribuído. Essa técnica permite a otimização de recursos, balanceamento de carga e tolerância a falhas, permitindo que os sistemas distribuídos sejam mais eficientes, flexíveis e resilientes. Durante a migração, o estado do processo em execução é transferido juntamente com seus dados associados, garantindo a continuidade e integridade da execução. -->
