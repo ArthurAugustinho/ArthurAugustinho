@@ -19,7 +19,7 @@
   <a href="https://github.com/ArthurAugustinho">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ArthurAugustinho&hide=contribs,prs&theme=chartreuse-dark"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurAugustinho&layout=compact&theme=chartreuse-dark"/>
-  [snake gif](https://github.com/ArthurAugustinho/ArthurAugustinho/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/ArthurAugustinho/ArthurAugustinho/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 #
