@@ -19,7 +19,7 @@
   <a href="https://github.com/ArthurAugustinho">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ArthurAugustinho&hide=contribs,prs&theme=chartreuse-dark"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurAugustinho&layout=compact&theme=chartreuse-dark"/>
-  <img width=850  src=https://github.com/ArthurAugustinho/ArthurAugustinho/blob/output/github-contribution-grid-snake.svg/>
+  [snake gif](https://github.com/ArthurAugustinho/ArthurAugustinho/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 #
@@ -44,23 +44,6 @@
 
 #
     
-<!--[snake gif](https://github.com/ArthurAugustinho/ArthurAugustinho/blob/output/github-contribution-grid-snake.svg)
+<!--[snake gif](https://github.com/ArthurAugustinho/ArthurAugustinho/blob/output/github-contribution-grid-snake.svg) -->
     
 <!-- 2CCA-000451-5766EBC3 -->
-<!-- Os sistemas de arquivos são componentes essenciais dos sistemas operacionais. Eles são responsáveis pelo gerenciamento, organização e armazenamento de dados em dispositivos de armazenamento, como discos rígidos e SSDs. Esses sistemas fornecem uma estrutura e um conjunto de regras para acessar, armazenar e recuperar arquivos de forma eficiente.
-
-Existem vários tipos de sistemas de arquivos implementados nos sistemas operacionais. Alguns dos principais exemplos incluem:
-
-1. FAT (File Allocation Table): O sistema de arquivos FAT foi inicialmente desenvolvido para o MS-DOS e ainda é amplamente usado em dispositivos de armazenamento removíveis, como pen drives e cartões de memória. Ele utiliza uma tabela de alocação de arquivos para registrar a localização dos dados em um dispositivo.
-
-2. NTFS (New Technology File System): O NTFS é o sistema de arquivos padrão para o Windows. Ele suporta recursos avançados, como controle de acesso, criptografia, compressão de arquivos e recuperação de dados em caso de falhas.
-
-3. ext4 (Fourth Extended File System): O ext4 é uma versão avançada do sistema de arquivos ext3 e é amplamente utilizado em sistemas Linux. Ele oferece recursos como journaling (registro de transações), suporte a tamanhos de arquivos grandes e alta escalabilidade.
-
-4. HFS+ (Hierarchical File System Plus): O HFS+ foi o sistema de arquivos padrão nos sistemas operacionais macOS antes do lançamento do APFS (Apple File System). Ele fornece suporte a metadados estendidos, criptografia e compressão de arquivos.
-
-5. APFS (Apple File System): O APFS é o sistema de arquivos atualmente utilizado no macOS e iOS. Ele foi projetado para melhorar o desempenho, a eficiência e a confiabilidade, além de oferecer recursos avançados, como snapshots (pontos de restauração instantâneos), clonagem de arquivos e criptografia nativa.
-
-Esses são apenas alguns exemplos dos muitos sistemas de arquivos disponíveis. Cada um possui características específicas, otimizadas para atender a diferentes requisitos de desempenho, segurança e compatibilidade em sistemas operacionais distintos.
-
-A migração de processos em sistemas distribuídos refere-se ao processo de transferir a execução de um processo de um nó ou servidor para outro dentro de um ambiente distribuído. Essa técnica permite otimizar recursos, equilibrar a carga e tolerar falhas, tornando os sistemas distribuídos mais eficientes, flexíveis e resilientes. Durante a migração, o estado do processo em execução é transferido juntamente com seus dados associados, garantindo a continuidade e a integridade da execução. -->
