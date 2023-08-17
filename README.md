@@ -46,3 +46,17 @@
 <!--[snake gif](https://github.com/ArthurAugustinho/ArthurAugustinho/blob/output/github-contribution-grid-snake.svg) -->
     
 <!-- 2CCA-000451-5766EBC3 -->
+
+<!-- Utilizando o conceito de abstração que foi visto, reflita sobre os seguintes contextos da vida real e crie uma tabela contendo as entidades, caracteristicas e ações:
+
+1. Sistema de Gerenciamento de Aluguel; 2 Sistema de Gerenciamento de Biblioteca;
+
+3 Sistema de Gerenciamento de Frota de veiculos; 4 Sistema de Gerenciamento de Projetos;
+
+5. Sistema de Gerenciamento de Pedidos de Restaurante;
+
+6. Sistema de Gerenciamento de Controle de estoque em lojas 7. Sistema de Gerenciamento de Reservas em Pousadas/Hotéis
+
+8. Sistema de Controle de Planejamento de Viagens;
+
+Sistema de Controle de Atendimentos em um Hospital; 10. Sistema de Controle de Midias Digitals -->
