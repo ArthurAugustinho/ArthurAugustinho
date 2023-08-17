@@ -47,16 +47,29 @@
     
 <!-- 2CCA-000451-5766EBC3 -->
 
-<!-- Utilizando o conceito de abstração que foi visto, reflita sobre os seguintes contextos da vida real e crie uma tabela contendo as entidades, caracteristicas e ações:
+<!--  Claro, vou ajudar você a refletir sobre esses contextos da vida real utilizando o conceito de abstração. Aqui está a tabela com as entidades, características e ações para cada sistema:
 
-1. Sistema de Gerenciamento de Aluguel; 2 Sistema de Gerenciamento de Biblioteca;
+| Contexto                                | Entidades                           | Características                                    | Ações                                           |
+|-----------------------------------------|------------------------------------|----------------------------------------------------|-------------------------------------------------|
+| Sistema de Gerenciamento de Aluguel     | Proprietários, Locatários, Imóveis | Aluguel, Duração do aluguel, Valor do aluguel      | Cadastrar aluguel, Registrar pagamento,         |
+|                                         |                                    |                                                    | Verificar disponibilidade do imóvel           |
+| Sistema de Gerenciamento de Biblioteca  | Livros, Usuários, Empréstimos      | Título, Autor, ISBN, Prazo de empréstimo           | Cadastrar livro, Registrar empréstimo,        |
+|                                         |                                    |                                                    | Pesquisar disponibilidade de livro            |
+| Sistema de Gerenciamento de Frota       | Veículos, Motoristas, Manutenção   | Placa, Modelo, Quilometragem, Data de manutenção  | Registrar viagem, Agendar manutenção,         |
+| de veículos                             |                                    |                                                    | Atribuir motorista a um veículo               |
+| Sistema de Gerenciamento de Projetos    | Tarefas, Equipe, Prazos            | Descrição, Responsável, Data de conclusão         | Criar tarefa, Atribuir tarefa a um membro,   |
+|                                         |                                    |                                                    | Acompanhar o progresso do projeto            |
+| Sistema de Gerenciamento de Pedidos de  | Clientes, Itens, Pedidos           | Item, Quantidade, Status do pedido               | Registrar pedido, Atualizar status do pedido  |
+| Restaurante                             |                                    |                                                    | Gerar fatura para o cliente                   |
+| Sistema de Gerenciamento de Controle de | Produtos, Estoque, Fornecedores    | Nome do produto, Quantidade em estoque           | Registrar entrada/saída de produtos,         |
+| estoque em lojas                       |                                    |                                                    | Notificar sobre níveis baixos de estoque     |
+| Sistema de Gerenciamento de Reservas em | Quartos, Hóspedes, Reservas        | Tipo de quarto, Datas da reserva, Hóspedes        | Criar reserva, Cancelar reserva,             |
+| Pousadas/Hotéis                        |                                    |                                                    | Verificar disponibilidade de quartos         |
+| Sistema de Controle de Planejamento de  | Destinos, Roteiros, Orçamentos     | Local, Duração, Orçamento estimado               | Criar roteiro, Definir orçamento,            |
+| Viagens                                 |                                    |                                                    | Acompanhar despesas durante a viagem         |
+| Sistema de Controle de Atendimentos em  | Pacientes, Médicos, Consultas      | Data e hora, Especialidade médica                | Agendar consulta, Registrar diagnóstico,    |
+| um Hospital                             |                                    |                                                    | Ver histórico de consultas do paciente       |
+| Sistema de Controle de Mídias Digitais  | Mídias, Campanhas, Audiência       | Tipo de mídia, Duração da campanha              | Criar campanha, Monitorar engajamento,       |
+|                                         |                                    |                                                    | Analisar métricas de audiência              |
 
-3 Sistema de Gerenciamento de Frota de veiculos; 4 Sistema de Gerenciamento de Projetos;
-
-5. Sistema de Gerenciamento de Pedidos de Restaurante;
-
-6. Sistema de Gerenciamento de Controle de estoque em lojas 7. Sistema de Gerenciamento de Reservas em Pousadas/Hotéis
-
-8. Sistema de Controle de Planejamento de Viagens;
-
-Sistema de Controle de Atendimentos em um Hospital; 10. Sistema de Controle de Midias Digitals -->
+Lembre-se de que essa tabela é apenas uma visão simplificada dos sistemas e suas abstrações. Cada sistema pode ter mais detalhes e características específicas dependendo das necessidades reais. -->
