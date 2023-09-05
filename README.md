@@ -47,29 +47,42 @@
     
 <!-- 2CCA-000451-5766EBC3 -->
 
-<!--  Claro, vou ajudar você a refletir sobre esses contextos da vida real utilizando o conceito de abstração. Aqui está a tabela com as entidades, características e ações para cada sistema:
+<!--  Listas Lineares Sequencias -> Vetores
 
-| Contexto                                | Entidades                           | Características                                    | Ações                                           |
-|-----------------------------------------|------------------------------------|----------------------------------------------------|-------------------------------------------------|
-| Sistema de Gerenciamento de Aluguel     | Proprietários, Locatários, Imóveis | Aluguel, Duração do aluguel, Valor do aluguel      | Cadastrar aluguel, Registrar pagamento,         |
-|                                         |                                    |                                                    | Verificar disponibilidade do imóvel           |
-| Sistema de Gerenciamento de Biblioteca  | Livros, Usuários, Empréstimos      | Título, Autor, ISBN, Prazo de empréstimo           | Cadastrar livro, Registrar empréstimo,        |
-|                                         |                                    |                                                    | Pesquisar disponibilidade de livro            |
-| Sistema de Gerenciamento de Frota       | Veículos, Motoristas, Manutenção   | Placa, Modelo, Quilometragem, Data de manutenção  | Registrar viagem, Agendar manutenção,         |
-| de veículos                             |                                    |                                                    | Atribuir motorista a um veículo               |
-| Sistema de Gerenciamento de Projetos    | Tarefas, Equipe, Prazos            | Descrição, Responsável, Data de conclusão         | Criar tarefa, Atribuir tarefa a um membro,   |
-|                                         |                                    |                                                    | Acompanhar o progresso do projeto            |
-| Sistema de Gerenciamento de Pedidos de  | Clientes, Itens, Pedidos           | Item, Quantidade, Status do pedido               | Registrar pedido, Atualizar status do pedido  |
-| Restaurante                             |                                    |                                                    | Gerar fatura para o cliente                   |
-| Sistema de Gerenciamento de Controle de | Produtos, Estoque, Fornecedores    | Nome do produto, Quantidade em estoque           | Registrar entrada/saída de produtos,         |
-| estoque em lojas                       |                                    |                                                    | Notificar sobre níveis baixos de estoque     |
-| Sistema de Gerenciamento de Reservas em | Quartos, Hóspedes, Reservas        | Tipo de quarto, Datas da reserva, Hóspedes        | Criar reserva, Cancelar reserva,             |
-| Pousadas/Hotéis                        |                                    |                                                    | Verificar disponibilidade de quartos         |
-| Sistema de Controle de Planejamento de  | Destinos, Roteiros, Orçamentos     | Local, Duração, Orçamento estimado               | Criar roteiro, Definir orçamento,            |
-| Viagens                                 |                                    |                                                    | Acompanhar despesas durante a viagem         |
-| Sistema de Controle de Atendimentos em  | Pacientes, Médicos, Consultas      | Data e hora, Especialidade médica                | Agendar consulta, Registrar diagnóstico,    |
-| um Hospital                             |                                    |                                                    | Ver histórico de consultas do paciente       |
-| Sistema de Controle de Mídias Digitais  | Mídias, Campanhas, Audiência       | Tipo de mídia, Duração da campanha              | Criar campanha, Monitorar engajamento,       |
-|                                         |                                    |                                                    | Analisar métricas de audiência              |
+3
 
-Lembre-se de que essa tabela é apenas uma visão simplificada dos sistemas e suas abstrações. Cada sistema pode ter mais detalhes e características específicas dependendo das necessidades reais. -->
+4
+
+5
+
+6
+
+Organiza os elementos de forma sequencial, eles ficam armazenados en posições contiguas na mémoria. Neste tipo de Listo é interessante que se soibo a quantidade de elementos que serão armazenados antes de realizar qualquer tipo de operação.
+
+7
+
+8
+
+Listas Lineares Encadeadas
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+/
+
+É um conjunto de Linear de estruturas que são autoreferenciadas, chamadas de NOS (nodos), que são conectados por Links(Ligações ou encadeamentos) de ponteiros. Ela é acessada por meio de um ponteiro que aponta para o primeiro nó do Listo. Os nós subsequentes são acessados por meio de ponteiro de Ligação que existe em cada nó. I -->
