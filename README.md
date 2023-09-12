@@ -47,25 +47,111 @@
     
 <!-- 2CCA-000451-5766EBC3 -->
 
-<!-- Apresentação da Solução:
+<!-- #include<stdio.h>
+#include<stdlib.h>
+#include<locale.h>
 
-Descrição: 
-O EduConverge é uma plataforma inovadora projetada para liderar a transformação digital na educação básica. Esta solução abrangente oferece uma gama de recursos avançados para gestão educacional, integrando informações de alunos, professores, aulas, séries de ensino e matrículas. O EduConverge também se destaca por sua capacidade de personalização do ensino, fornecendo uma experiência de aprendizado única para cada aluno, tudo isso com acesso facilitado a recursos educacionais e uma interface intuitiva para todos os envolvidos.
+// Criando uma estrutura de nó da lista
+typedef struct Node {
+    char data;
+    struct Node* next;
+} Node;
 
-Problemática a ser Resolvida: 
-O cenário educacional atual apresenta desafios significativos, como a gestão de dados complexa, comunicação ineficaz e dificuldades no acesso a recursos educacionais digitais. O EduConverge surge como a solução para abordar essas questões, simplificando a administração escolar, promovendo uma comunicação eficaz e, finalmente, elevando a qualidade do ensino básico.
+// Função para INCERIR um nó na lista em ordem alfabética
+void insertInOrder(Node** head, char value) {
+    Node* newNode = (Node*)malloc(sizeof(Node));
+    newNode->data = value;
+    newNode->next = NULL;
 
-Funcionalidades-Chave do EduConverge:
+    if (*head == NULL || value <= (*head)->data) {
+        newNode->next = *head;
+        *head = newNode;
+    } else {
+        Node* current = *head;
+        while (current->next != NULL && current->next->data < value) {
+            current = current->next;
+        }
+        newNode->next = current->next;
+        current->next = newNode;
+    }
+}
 
-•	Centralização de Dados: O EduConverge reúne todas as informações essenciais, como dados de alunos, detalhes do corpo docente, informações sobre aulas e matrículas, em um único local de fácil acesso, simplificando a gestão administrativa.
-•	Personalização do Ensino: Utilizando tecnologias de análise de dados e inteligência artificial, o EduConverge adapta o processo de ensino ao ritmo, nível de habilidade e interesses individuais de cada aluno, criando uma experiência de aprendizado envolvente e eficaz.
-•	Ensino à Distância: O sistema oferece uma plataforma completa de ensino à distância, incluindo salas de aula virtuais, proporcionando um acesso amplo à educação, especialmente para estudantes em áreas remotas ou com recursos limitados.
-•	Recursos de Aprendizado Digital: O EduConverge disponibiliza recursos educacionais digitais de alta qualidade, como livros digitais, vídeos interativos, jogos educativos e experiências em realidade virtual, tornando o aprendizado mais interativo e envolvente.
-•	Avaliação Contínua: Permite uma avaliação frequente do progresso dos alunos, facilitando a identificação de lacunas no conhecimento e permitindo intervenções oportunas para melhorar o desempenho.
-•	Colaboração e Comunicação: Facilita a comunicação entre estudantes, professores e pais, promovendo um ambiente educacional colaborativo e fortalecendo a comunidade escolar.
-•	Segurança e Privacidade: Incorpora medidas rigorosas de segurança de dados para garantir a proteção das informações dos alunos, atendendo aos mais altos padrões de privacidade e segurança.
+// Função para REMOVER o nó da lista
+void removeNode(Node** head, char value) {
+    if (*head == NULL) {
+        return;
+    }
 
-Impacto Esperado: 
-A implementação do EduConverge é esperada para revolucionar a gestão educacional, tornar o processo de ensino mais personalizado e envolvente, e garantir que a educação básica esteja preparada para o futuro digital. Ele visa simplificar a administração escolar, promover uma comunicação eficaz e elevar a qualidade do ensino básico para todos os alunos, independentemente de sua localização ou recursos disponíveis.
+    if ((*head)->data == value) {
+        Node* temp = *head;
+        *head = (*head)->next;
+        free(temp);
+        return;
+    }
 
-Descreva com outras palavras -->
+    Node* current = *head;
+    while (current->next != NULL && current->next->data != value) {
+        current = current->next;
+    }
+
+    if (current->next == NULL) {
+        return;
+    }
+
+    Node* temp = current->next;
+    current->next = current->next->next;
+    free(temp);
+}
+
+// Função para IMPRIMIR a lista
+void printList(Node* head) {
+    printf("Lista: ");
+    while (head != NULL) {
+        printf("%c ", head->data);
+        head = head->next;
+    }
+    printf("\n");
+}
+
+int main() {
+    Node* head = NULL;
+    char choice, value;
+
+    do {
+        printf("Escolha uma operação:\n");
+        printf("1 -> Inserir letras na lista\n");
+        printf("2 -> Remover letras da lista\n");
+        printf("3 -> Imprimir os caracteres da lista\n");
+        printf("4 -> Sair\n");
+        scanf(" %c", &choice);
+
+        switch (choice) {
+            case '1':
+                printf("Digite a letra a ser inserida: ");
+                scanf(" %c", &value);
+                insertInOrder(&head, value);
+                break;
+            case '2':
+                printf("Digite a letra a ser removida: ");
+                scanf(" %c", &value);
+                removeNode(&head, value);
+                break;
+            case '3':
+                printList(head);
+                break;
+            case '4':
+                // Libera a memória alocada
+                while (head != NULL) {
+                    Node* temp = head;
+                    head = head->next;
+                    free(temp);
+                }
+                break;
+            default:
+                printf("Escolha inválida!\n");
+        }
+    } while (choice != '4');
+
+    return 0;
+}
+ -->
