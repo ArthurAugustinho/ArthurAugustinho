@@ -1,7 +1,7 @@
 <!-- Saudação -->
 
 <div>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39FF14&center=falso&vCenter=falso&repeat=verdadeiro&width=435&lines=Ol%C3%A1!+eu+sou+o+Arthur+Augustinho." alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&center=falso&vCenter=falso&repeat=verdadeiro&width=435&lines=Ol%C3%A1!+eu+sou+o+Arthur+Augustinho." alt="Typing SVG" /></a>
 </div>
 
 #
@@ -16,9 +16,13 @@
 <!-- Status da conta Arthur Augustinho -->
 
 <div>
-  <a href="https://github.com/ArthurAugustinho">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ArthurAugustinho&hide=contribs,prs&theme=chartreuse-dark"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurAugustinho&layout=compact&theme=chartreuse-dark"/>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArthurAugustinho&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArthurAugustinho&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArthurAugustinho&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArthurAugustinho&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ArthurAugustinho&theme=2077&utcOffset=8)
+
 </div>
 
 #
@@ -54,7 +58,3 @@
 #
     
 <!--[snake gif](https://github.com/ArthurAugustinho/ArthurAugustinho/blob/output/github-contribution-grid-snake.svg) -->
-    
-<!-- 2CCA-000451-5766EBC3 -->
-
-<!-- -->
