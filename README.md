@@ -18,7 +18,7 @@
 
 
 <h2 align
-="left">Engenheiro de Software & Full Stack Developer</h2>
+="left">Software Enginer & Full Stack Developer</h2>
 <div>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&center=falso&vCenter=falso&repeat=verdadeiro&width=435&lines=Ol%C3%A1!+eu+sou+o+Arthur+Augustinho." alt="Typing SVG" /></a>
 </div>
