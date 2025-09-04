@@ -25,6 +25,10 @@
 
 </div>
 
+<div>
+    <img src="https://raw.githubusercontent.com/ArthurAugustinho/ArthurAugustinho/output/snake.svg" alt="Snake animation" />
+</div>
+
 #
 
 ## Tecnologias que utilizo
