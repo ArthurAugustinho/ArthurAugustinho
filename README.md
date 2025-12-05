@@ -312,6 +312,6 @@ Em 2025, resolvi sair da área de redes e focar em desenvolvimento de sistemas, 
 
 
 <div>
-    <img src="https://raw.githubusercontent.com/Guilherme549/Guilherme549/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake animation" />
+    <img src="https://raw.githubusercontent.com/Guilherme549/Guilherme549/output/snake.svg" alt="Snake animation" />
 </div>
  		       
