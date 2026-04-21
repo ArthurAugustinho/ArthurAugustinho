@@ -23,7 +23,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&center=falso&vCenter=falso&repeat=verdadeiro&width=435&lines=Ol%C3%A1!+eu+sou+o+Arthur+Augustinho." alt="Typing SVG" /></a>
 </div>
 
-  Sou Engenheiro de Software Junior, com uma carreira em TI iniciada em 2020. Minha formação inclui o curso <b>técnico em Redes de Computadores (SENAI-GO)</b> e a graduação em <b>Engenharia de Software (UniEvangelica-GO)</b>.
+  Sou Engenheiro de Software, com uma carreira em TI iniciada em 2020. Minha formação inclui o curso <b>técnico em Redes de Computadores (SENAI-GO)</b> e a graduação em <b>Engenharia de Software (UniEvangelica-GO)</b>.
 
   Meu foco é seguir evoluindo como desenvolvedor <b>full-stack</b>, com ênfase em <b>arquitetura limpa</b>, <b>código sustentável</b> e <b>metodologias ágeis</b> como <b>Scrum</b>, <b>Kanban</b>, <b>Lean Inception</b> e <b>Design Sprint</b>. Tenho perfil <b>analítico</b>, <b>criativo</b> e <b>orientado à solução</b>, características que guiam minha atuação em qualquer projeto.
 
